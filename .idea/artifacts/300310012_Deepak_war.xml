@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="300310012_Deepak:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>300310012_Deepak</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="_300310012Deepak-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="300310012_Deepak:war exploded" />
+    </root>
+  </artifact>
+</component>
